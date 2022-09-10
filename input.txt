@@ -1,0 +1,9 @@
+Hiam	Abbas	1234	64	W
+Avital	Abergel	111	81	W
+Gila	Almagor	55	74	L
+Aviv	Alush	12554	64	R
+Lior	Ashkenazi	100234	10	W
+Yvan	Attal	1209	66	L
+Mili	Avital	198	39	W
+Aki	Avni	12541	13	R
+Orna	Banai	887	96	L
